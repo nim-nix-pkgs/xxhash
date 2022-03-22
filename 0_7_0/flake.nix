@@ -9,7 +9,7 @@
   
   inputs.src-xxhash-0_7_0.flake = false;
   inputs.src-xxhash-0_7_0.owner = "OpenSystemsLab";
-  inputs.src-xxhash-0_7_0.ref   = "refs/tags/0.7.0";
+  inputs.src-xxhash-0_7_0.ref   = "0_7_0";
   inputs.src-xxhash-0_7_0.repo  = "xxhash.nim";
   inputs.src-xxhash-0_7_0.type  = "github";
   
